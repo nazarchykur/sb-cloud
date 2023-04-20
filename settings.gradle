@@ -2,3 +2,4 @@ rootProject.name = 'sb-cloud'
 
 includeBuild 'product-service'
 includeBuild 'eureka-server'
+includeBuild 'api-gateway'
